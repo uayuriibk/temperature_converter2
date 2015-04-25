@@ -1,2 +1,2 @@
 # TemperatureConverter2
-RESTful Web Services,JAX-RS, Jersey
+Java, Maven, RESTful Web Services,JAX-RS, Jersey
